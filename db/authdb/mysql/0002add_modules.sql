@@ -1,2 +1,2 @@
-INSERT INTO modules (id, name) VALUES (1, ‘RUZE’);
+INSERT INTO modules (id, name) VALUES (1, 'RUZE');
 
